@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/wonderfulroller7/PolyPasswordHasher-Java.svg?branch=master)](https://travis-ci.com/wonderfulroller7/PolyPasswordHasher-Java)
 
 Requirements:
 
